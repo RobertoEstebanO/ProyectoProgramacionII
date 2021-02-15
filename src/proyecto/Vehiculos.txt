@@ -1,0 +1,7 @@
+b 2843DFR 2093 300 Mercedes-Benz 53 true
+c 7102BDU 12456 150 Renault true
+d 6585TRE 1023 200 Opel-Corsa false
+b 1282DFR 5021 450 Mercedes-Benz 80 false
+m 6534ERF 7851 200 Chevrolet-Orlando false
+d 2031BDY 14852 150 Citroen-Xsara true
+m 3964BCZ 8247 250 Opel-Zafira true
